@@ -1,5 +1,5 @@
 ---
-title: Taysha AI
+title: Tay AI
 emoji: 🔥
 colorFrom: purple
 colorTo: purple
